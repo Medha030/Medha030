@@ -420,67 +420,157 @@ A project exploring gesture-based interaction and mobile application experiences
 
 </div>
 
+<!-- ========================= DEVELOPER PHILOSOPHY ========================= -->
 
-<!-- =========================
-     PHILOSOPHY
-========================= -->
-
-<h2>🟠 13 &nbsp; DEVELOPER PHILOSOPHY</h2>
+<h2>🟠 12 &nbsp; DEVELOPER PHILOSOPHY</h2>
 
 <div align="center">
 
-```text
-                         💡 IDEA
-                           │
-                           ▼
-                      🎨 DESIGN
-                           │
-                           ▼
-                       💻 CODE
-                           │
-                           ▼
-                       🚀 BUILD
-                           │
-                           ▼
-                      📈 IMPROVE
-                           │
-                           ▼
-                         ✨
+<table>
+<tr>
+
+<td align="center">
+<h2>💡</h2>
+<b>IDEA</b>
+</td>
+
+<td align="center">
+<h2>→</h2>
+</td>
+
+<td align="center">
+<h2>🎨</h2>
+<b>DESIGN</b>
+</td>
+
+<td align="center">
+<h2>→</h2>
+</td>
+
+<td align="center">
+<h2>💻</h2>
+<b>CODE</b>
+</td>
+
+<td align="center">
+<h2>→</h2>
+</td>
+
+<td align="center">
+<h2>🚀</h2>
+<b>BUILD</b>
+</td>
+
+<td align="center">
+<h2>→</h2>
+</td>
+
+<td align="center">
+<h2>🔧</h2>
+<b>IMPROVE</b>
+</td>
+
+</tr>
+</table>
+
 <br/>
-BUILD ✦ LEARN ✦ BREAK ✦ FIX ✦ REPEAT
-</div> <br/> <!-- ========================= CONNECT ========================= --> <h2>🟠 13 &nbsp; LET'S CONNECT</h2> <div align="center"> <a href="https://www.linkedin.com/in/gv-medha-sree-15918a350/">
 
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF7A00" alt="LinkedIn" />
+<h3>
+<code>BUILD</code>
+&nbsp; ✦ &nbsp;
+<code>LEARN</code>
+&nbsp; ✦ &nbsp;
+<code>BREAK</code>
+&nbsp; ✦ &nbsp;
+<code>FIX</code>
+&nbsp; ✦ &nbsp;
+<code>REPEAT</code>
+</h3>
 
+</div>
+
+
+<br/>
+
+
+<!-- ========================= CONNECT ========================= -->
+
+<h2>🟠 13 &nbsp; LET'S CONNECT</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gv-medha-sree-15918a350/">
+<img
+src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF7A00"
+alt="LinkedIn"
+/>
 </a>
 
- 
+&nbsp;&nbsp;
 
 <a href="mailto:gvms2006@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF7A00" alt="Email" />
-
+<img
+src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF7A00"
+alt="Email"
+/>
 </a>
 
- 
+&nbsp;&nbsp;
 
 <a href="https://github.com/Medha030">
-
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub" />
-
+<img
+src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF7A00"
+alt="GitHub"
+/>
 </a>
 
- 
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/medha03">
+<img
+src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FF7A00"
+alt="LeetCode"
+/>
+</a>
 
-<img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FF7A00" alt="LeetCode" />
+</div>
 
-</a> </div> <br/> <br/> <!-- ========================= FOOTER ========================= --> <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=180&section=footer&animation=fadeIn" alt="Orange Footer" />
+<br/>
+<br/>
 
-<br/> <h3>
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=180&section=footer&animation=fadeIn"
+alt="Orange Footer"
+/>
+
+<br/>
+
+<h3>
+
+<code>BUILD</code>
+&nbsp; ✦ &nbsp;
+<code>LEARN</code>
+&nbsp; ✦ &nbsp;
+<code>BREAK</code>
+&nbsp; ✦ &nbsp;
+<code>FIX</code>
+&nbsp; ✦ &nbsp;
+<code>REPEAT</code>
+
+</h3>
+
+<br/>
+
+<sub>Designed with 🖤 & 🟠</sub>
+
+</div>
 
 BUILD   ✦  
 LEARN   ✦  
