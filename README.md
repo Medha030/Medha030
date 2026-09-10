@@ -294,14 +294,34 @@ A project exploring gesture-based interaction and mobile application experiences
      ACTIVITY GRAPH
 ========================= -->
 
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+
 <h2>🟠 08 &nbsp; CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Medha030&bg_color=0D0D0D&color=FFFFFF&line=FF7A00&point=FFB366&area=true&area_color=FF7A00&hide_border=true&custom_title=Contribution%20Activity"/>
+<img
+  width="95%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medha030&theme=github_dark"
+  alt="Contribution Activity"
+/>
 
 </div>
 
+
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
+
+<h2>🟠 09 &nbsp; CONTRIBUTION STREAK</h2>
+
+<div align="center">
+
+<img
+  width="90%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Medha030&background=000000&border=FF7A00&stroke=FF7A00&ring=FF7A00&fire=FF7A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FF7A00&dates=888888"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
 
 <!-- =========================
      COMMIT ACTIVITY
