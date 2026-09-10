@@ -1,26 +1,282 @@
-<h1 align="center">Hi 👋, I'm Gurikani Venkata Medha Sree</h1>
-<h3 align="center">Developer | Passionate about technology, design & problem solving</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medha030" alt="medha030" /></a> </p>
+# 👋 Hey, I'm **Medha Sree**
 
-- 🔭 I’m currently working on [Recurly-subscription-tracker](https://github.com/Medha030/Recurly-subscription-tracker)
+### `Developer` · `Problem Solver` · `Builder`
 
-- 🌱 I’m currently learning **TypeScript · Backend Development · REST APIs · UI/UX · Cloud & Deployment**
+**I turn ideas into clean, functional and user-focused digital experiences.**
 
-- 💬 Ask me about **Full Stack Dev · JavaScript · TypeScript · Java · Mobile Apps · UI/UX · Git & GitHub**
+<br/>
 
-- 📫 How to reach me **gvms2006@gmail.com**
+<a href="https://github.com/Medha030">
+  <img src="https://komarev.com/ghpvc/?username=Medha030&label=PROFILE%20VIEWS&color=FF7A00&style=for-the-badge" alt="Profile views"/>
+</a>
 
-- ⚡ Fun fact **I break things, fix them, and somehow learn more every time.😅**
+<a href="https://github.com/Medha030?tab=followers">
+  <img src="https://img.shields.io/github/followers/Medha030?label=FOLLOWERS&style=for-the-badge&color=FF7A00&labelColor=0D0D0D" alt="Followers"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+## 🟠 `01` — About Me
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Hey! I'm Gurikani Venkata Medha Sree.                      │
+│                                                              │
+│  I'm a developer who enjoys turning ideas into working      │
+│  applications and continuously improving my skills.         │
+│                                                              │
+│  I care about clean interfaces, good user experiences,       │
+│  problem solving and writing code that actually works.       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+* 🔭 Currently working on **[Recurly — Subscription Tracker](https://github.com/Medha030/Recurly-subscription-tracker)**
+* 🌱 Currently learning **TypeScript · Backend Development · REST APIs · UI/UX · Cloud & Deployment**
+* 💬 Ask me about **JavaScript · TypeScript · Java · Mobile Apps · UI/UX · Git & GitHub**
+* 📍 Based in **Hyderabad, India 🇮🇳**
+* ⚡ Fun fact: **I break things, fix them, and somehow learn more every time. 😅**
+
+---
+
+## 🟠 `02` — Currently Learning
+
+<div align="center">
+
+`TypeScript`   `Backend Development`   `REST APIs`
+
+`UI/UX`   `Cloud & Deployment`   `System Design`
+
+</div>
+
+---
+
+## 🟠 `03` — Tech Stack
+
+### Languages
+
 <p align="left">
-<a href="https://linkedin.com/in/gv medha sree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gv medha sree" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/medha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="medha03" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Frontend & Mobile
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=medha030&show_icons=true&locale=en&layout=compact" alt="medha030" /></p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,reactnative,html,css,tailwind&theme=dark" />
+</p>
 
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</p>
+
+### Tools & Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea&theme=dark" />
+</p>
+
+---
+
+## 🟠 `04` — Featured Projects
+
+### 🟠 Recurly — Subscription Tracker
+
+> A modern subscription management application designed to help users track recurring expenses, subscriptions and monthly spending.
+
+**Highlights**
+
+* 📊 Dashboard with subscription overview
+* 💳 Subscription management
+* 🔎 Search functionality
+* 📈 Monthly spending insights
+* ➕ Add subscription workflow
+* 📱 Mobile-first interface
+* ✨ Smooth and polished interactions
+
+**Built with:** `React Native` · `Expo` · `TypeScript`
+
+<div align="center">
+
+<a href="https://github.com/Medha030/Recurly-subscription-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Medha030&repo=Recurly-subscription-tracker&theme=dark&bg_color=0D0D0D&title_color=FF7A00&text_color=F5F5F5&icon_color=FF7A00&border_color=FF7A00" />
+</a>
+
+</div>
+
+---
+
+### 🟠 Gesture Go Pro
+
+> A project exploring gesture-based interaction and mobile application development.
+
+<div align="center">
+
+<a href="https://github.com/Medha030/gesture-go-pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Medha030&repo=gesture-go-pro&theme=dark&bg_color=0D0D0D&title_color=FF7A00&text_color=F5F5F5&icon_color=FF7A00&border_color=FF7A00" />
+</a>
+
+</div>
+
+---
+
+### 🟠 More Projects
+
+Explore my other academic and personal projects on my GitHub.
+
+<div align="center">
+
+<a href="https://github.com/Medha030?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-FF7A00?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🟠 `05` — GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Medha030&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=F5F5F5&icon_color=FF7A00&border_color=FF7A00&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medha030&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=F5F5F5&icon_color=FF7A00&border_color=FF7A00" />
+
+</div>
+
+---
+
+## 🟠 `06` — Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medha030&background=0D0D0D&border=FF7A00&stroke=FF7A00&ring=FF7A00&fire=FF9D45&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A00&sideLabels=FF7A00&dates=AAAAAA&hide_border=false" />
+
+</div>
+
+---
+
+## 🟠 `07` — Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Medha030">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Medha030&bg_color=0D0D0D&color=FFFFFF&line=FF7A00&point=FFB366&area=true&area_color=FF7A00&hide_border=true&custom_title=Contribution%20Activity" />
+
+</a>
+
+</div>
+
+---
+
+## 🟠 `08` — Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Medha030&theme=github_dark" />
+
+</div>
+
+---
+
+## 🟠 `09` — GitHub Metrics
+
+<div align="center">
+
+<img src="https://img.shields.io/github/repos/Medha030?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOSITORIES&color=FF7A00&labelColor=0D0D0D" />
+
+<img src="https://img.shields.io/github/followers/Medha030?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=FF7A00&labelColor=0D0D0D" />
+
+<img src="https://img.shields.io/github/commit-activity/y/Medha030/Recurly-subscription-tracker?style=for-the-badge&logo=git&logoColor=white&label=RECURly%20COMMITS&color=FF7A00&labelColor=0D0D0D" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Medha030&show_icons=true&hide=prs,issues&hide_rank=true&include_all_commits=true&custom_title=Open%20Source%20Activity&hide_border=true&bg_color=0D0D0D&title_color=FF7A00&text_color=F5F5F5&icon_color=FF7A00" />
+
+</div>
+
+---
+
+## 🟠 `10` — What I Like Building
+
+```text
+        ┌─────────────────────┐
+        │    💡 IDEAS         │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │    🎨 DESIGN        │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │    💻 CODE          │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │    🚀 BUILD         │
+        └──────────┬──────────┘
+                   │
+                   ▼
+        ┌─────────────────────┐
+        │    📈 IMPROVE       │
+        └─────────────────────┘
+```
+
+I enjoy working on:
+
+* 📱 Mobile applications
+* 🌐 Web applications
+* 🎨 User interfaces & experiences
+* ⚙️ APIs & backend systems
+* 🧩 Problem solving
+* 🚀 Personal & academic projects
+
+---
+
+## 🟠 `11` — Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gv-medha-sree-15918a350/">
+<img src="https://img.shields.io/badge/LINKEDIN-FF7A00?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gvms2006@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF7A00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Medha030">
+<img src="https://img.shields.io/badge/GITHUB-FF7A00?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/medha03">
+<img src="https://img.shields.io/badge/LEETCODE-FF7A00?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • BREAK • FIX • REPEAT`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=100&section=footer" />
+
+</div>
