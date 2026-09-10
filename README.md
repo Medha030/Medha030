@@ -566,10 +566,6 @@ alt="Orange Footer"
 
 </h3>
 
-<br/>
-
-<sub>Designed with 🖤 & 🟠</sub>
-
 </div>
 
 BUILD   ✦  
