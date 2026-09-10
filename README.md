@@ -565,15 +565,4 @@ alt="Orange Footer"
 <code>REPEAT</code>
 
 </h3>
-
 </div>
-
-BUILD   ✦  
-LEARN   ✦  
-BREAK   ✦  
-FIX   ✦  
-REPEAT
-
-</h3> <br/>
-
-<sub>Designed with 🖤 & 🟠</sub>
